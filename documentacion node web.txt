@@ -1,0 +1,55 @@
+nodeJS
+
+ ********* Proyecto Completado
+Github
+github.com/FaztWeb/first-node-express-app/tree/master/src
+
+ ********* Web para publicar en Internet el proyecto *********
+www.zeit.co/now
+
+ ********* Inicializar proyecto en NODEJS con un Json
+en CMD
+
+o dentro de VISUAL STUDIO CODE
+CTRL+SHIFT+P == Terminal: Create a New Integrated Terminal- MSDOS
+
+Inicializar Proyecto
+npm init --yes
+
+
+ ******** Instalar Modulos
+1. npm install express  (framework de NODE codigo con pocas lineas)
+2. npm install ejs (motor de plantillas, mejora al html-condicionales etc)
+3. npm install morgan (ver por consola lo que los navegadores estan pidiendo al servidor - Logs de peticiones)
+4. npm i nodemon -D  (-D dependencia de desarrollo
+			Cada vez que realizo un cambio reinicia el servidor)
+Crear Carpeta SRC para llevar orden y control de los archivos.
+
+******** Archivo package.json
+crear script
+	"start" : "node src"
+	"dev" : "nodemon src"  (ejecutar el index de la carpeta src al ejecutar
+	npm run dev 
+	en consola
+
+
+https://www.youtube.com/watch?v=sh-NanMOh1Q&feature=emb_rel_end
+
+https://zeit.co/home  (host app en server)
+instalar npm install -g now
+
+Ejecutar
+now
+
+si esta restringido para ejecutar archivo ir a POWER SHELL de WINDOWS
+set-ExecutionPolicy Unrestricted
+
+https://www.heroku.com/  (host app en server)
+
+https://github.com/FaztWeb/first-node-express-app
+https://fonts.google.com/ (fonts de Google)
+https://uigradients.com/  (gradient Fondo)
+https://ejs.co/ (ejs - motor plantillas)
+https://fontawesome.com/ (iconos y letras web)
+https://getbootstrap.com/  (css navegacion, etc)
+https://daneden.github.io/animate.css/ (animacion css)
